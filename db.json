@@ -1,0 +1,39 @@
+{
+    "database": [
+        {
+            "produtoId": 1,
+            "nome": "Prato Feito",
+            "descricao": "Arroz, feijão, carne e salada",
+            "foto": "01.jpg",
+            "preco": 18.5,
+        },
+        {
+            "produtoId": 2,
+            "nome": "Executivo",
+            "descricao": "Arroz, feijão, maionese, 2 carnes e salada",
+            "foto": "02.jpg",
+            "preco": 25.1,
+        },
+        {
+            "produtoId": 3,
+            "nome": "Cachorro quente",
+            "descricao": "Pão, salsicha, maionese e batata palha",
+            "foto": "03.jpg",       
+            "preco": 8.5,
+        },
+        {
+            "produtoId": 4,
+            "nome": "Hambúrguer",
+            "descricao": "Pão, hambúrguer de 90g, presunto, queijo, ovo e salada",
+            "foto": "04.jpg",
+            "preco": 13,
+        },
+        {
+            "produtoId": 5,
+            "nome": "Vegetariano",
+            "descricao": "Pão, provolone, cogumelo, ovo e salada",
+            "foto": "05.jpg",
+            "preco": 12.5,
+        }
+    ]
+}
