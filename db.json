@@ -1,38 +1,50 @@
 {
-	"produto": [{
+	"usados": 
+	[
+		{
 			"id": 1,
-			"nome": "Prato Feito",
-			"descricao": "Arroz, feijão, carne e salada",
+			"marca": "Honda",
+			"nome": "HR-V",
+			"descricao": "1.8 16V Flex EXL 4P",
+			"transmissao": "Automático",
 			"foto": "01.jpg",
-			"preco": 18.5
+			"preco": 121990
 		},
 		{
 			"id": 2,
-			"nome": "Executivo",
-			"descricao": "Arroz, feijão, maionese, 2 carnes e salada",
+			"marca": "Hyundai",
+			"nome": "HB20S",
+			"descricao": "1.0 TGDI Flex Platinum",
+			"transmissao": "Automatico",
 			"foto": "02.jpg",
-			"preco": 25.1
+			"preco": 98990
 		},
 		{
 			"id": 3,
-			"nome": "Cachorro quente",
-			"descricao": "Pão, salsicha, maionese e batata palha",
+			"marca": "Jeep",
+			"nome": "Renegade",
+			"descricao": "1.8 16V Flex 4P",
+			"transmissao": "Automático",
 			"foto": "03.jpg",
-			"preco": 8.5
+			"preco": 88990
 		},
 		{
 			"id": 4,
-			"nome": "Hambúrguer",
-			"descricao": "Pão, hambúrguer de 90g, presunto, queijo, ovo e salada",
+			"marca": "Fiat",
+			"nome": "Uno",
+			"descricao": "1.0 Fire Flex Attractive",
+			"transmissao": "Manual",
 			"foto": "04.jpg",
-			"preco": 13.0
+			"preco": 51990
 		},
 		{
 			"id": 5,
-			"nome": "Vegetariano",
-			"descricao": "Pão, provolone, cogumelo, ovo e salada",
+			"marca": "Hyundai",
+			"nome": "IX35",
+			"descricao": "2.0 MPI 4x2 16V 4P Automático",
+			"transmissao": "Automático",
 			"foto": "05.jpg",
-			"preco": 12.5
+			"preco": 74900
 		}
 	]
 }
